@@ -15,6 +15,7 @@ LOCAL_SHARED_LIBRARIES := libutils liblog libdl
 
 LOCAL_HEADER_LIBRARIES := \
         generated_kernel_headers \
+        display_headers \
         libutils_headers \
         libhardware_headers
 
